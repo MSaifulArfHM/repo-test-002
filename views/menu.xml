@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+    <!-- This Menu Item must have a parent and an action -->
+    <menuitem 
+        id="booking_menu_categ" 
+        name="Booking" 
+        parent="sale.sale_menu_root"
+        sequence="1"/>
+</odoo>
